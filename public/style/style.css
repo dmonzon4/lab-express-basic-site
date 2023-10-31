@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background-color: grey;
+}
+
+img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  position: block;
+  margin: 25px;
+  border: 5px solid white;
+  border-radius: 50px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  margin: 10px;
+}
+
+p {
+  align-items: center;
+  margin: 25px 50px 10px 50px;
+  font-size: 25px;
+}
